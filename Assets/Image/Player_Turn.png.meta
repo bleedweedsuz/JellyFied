@@ -1,0 +1,330 @@
+fileFormatVersion: 2
+guid: cef72dd3b62882c438ae76dc26b77343
+timeCreated: 1454850574
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Player_Turn_0
+    21300002: Player_Turn_1
+    21300004: Player_Turn_2
+    21300006: Player_Turn_3
+    21300008: Player_Turn_4
+    21300010: Player_Turn_5
+    21300012: Player_Turn_6
+    21300014: Player_Turn_7
+    21300016: Player_Turn_8
+    21300018: Player_Turn_9
+    21300020: Player_Turn_10
+    21300022: Player_Turn_11
+    21300024: Player_Turn_12
+    21300026: Player_Turn_13
+    21300028: Player_Turn_14
+    21300030: Player_Turn_15
+    21300032: Player_Turn_16
+    21300034: Player_Turn_17
+    21300036: Player_Turn_18
+    21300038: Player_Turn_19
+    21300040: Player_Turn_20
+    21300042: Player_Turn_21
+    21300044: Player_Turn_22
+    21300046: Player_Turn_23
+    21300048: Player_Turn_24
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Player_Turn_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 175
+        width: 115
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Turn_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 175
+        width: 114
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Turn_2
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 175
+        width: 114
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Turn_3
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 175
+        width: 114
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Turn_4
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 175
+        width: 115
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Turn_5
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 175
+        width: 115
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Turn_6
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 174
+        width: 115
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Turn_7
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 174
+        width: 115
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Turn_8
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 173
+        width: 115
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Turn_9
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 173
+        width: 114
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Turn_10
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 173
+        width: 113
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Turn_11
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 173
+        width: 115
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Turn_12
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 173
+        width: 115
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Turn_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 115
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Turn_14
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 3
+        width: 115
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Turn_15
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 3
+        width: 115
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Turn_16
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 3
+        width: 115
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Turn_17
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 4
+        width: 116
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Turn_18
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 4
+        width: 116
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Turn_19
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 4
+        width: 115
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Turn_20
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 4
+        width: 115
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Turn_21
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 4
+        width: 115
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Turn_22
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 3
+        width: 115
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Turn_23
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 3
+        width: 115
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Turn_24
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 3
+        width: 115
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

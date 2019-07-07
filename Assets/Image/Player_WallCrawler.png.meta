@@ -1,0 +1,418 @@
+fileFormatVersion: 2
+guid: 57c65049ddfba7c48996dc18fecbd128
+timeCreated: 1454581646
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Player_WallCrawler_0
+    21300002: Player_WallCrawler_1
+    21300004: Player_WallCrawler_2
+    21300006: Player_WallCrawler_3
+    21300008: Player_WallCrawler_4
+    21300010: Player_WallCrawler_5
+    21300012: Player_WallCrawler_6
+    21300014: Player_WallCrawler_7
+    21300016: Player_WallCrawler_8
+    21300018: Player_WallCrawler_9
+    21300020: Player_WallCrawler_10
+    21300022: Player_WallCrawler_11
+    21300024: Player_WallCrawler_12
+    21300026: Player_WallCrawler_13
+    21300028: Player_WallCrawler_14
+    21300030: Player_WallCrawler_15
+    21300032: Player_WallCrawler_16
+    21300034: Player_WallCrawler_17
+    21300036: Player_WallCrawler_18
+    21300038: Player_WallCrawler_19
+    21300040: Player_WallCrawler_20
+    21300042: Player_WallCrawler_21
+    21300044: Player_WallCrawler_22
+    21300046: Player_WallCrawler_23
+    21300048: Player_WallCrawler_24
+    21300050: Player_WallCrawler_25
+    21300052: Player_WallCrawler_26
+    21300054: Player_WallCrawler_27
+    21300056: Player_WallCrawler_28
+    21300058: Player_WallCrawler_29
+    21300060: Player_WallCrawler_30
+    21300062: Player_WallCrawler_31
+    21300064: Player_WallCrawler_32
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Player_WallCrawler_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 336
+        width: 114
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_WallCrawler_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 336
+        width: 114
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_WallCrawler_2
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 336
+        width: 114
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_WallCrawler_3
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 336
+        width: 115
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_WallCrawler_4
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 336
+        width: 115
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_WallCrawler_5
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 336
+        width: 115
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_WallCrawler_6
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 336
+        width: 115
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_WallCrawler_7
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 336
+        width: 115
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_WallCrawler_8
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 337
+        width: 115
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_WallCrawler_9
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 337
+        width: 115
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_WallCrawler_10
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 338
+        width: 115
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_WallCrawler_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 169
+        width: 115
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_WallCrawler_12
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 169
+        width: 116
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_WallCrawler_13
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 170
+        width: 115
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_WallCrawler_14
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 171
+        width: 116
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_WallCrawler_15
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 171
+        width: 116
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_WallCrawler_16
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 171
+        width: 116
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_WallCrawler_17
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 172
+        width: 116
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_WallCrawler_18
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 172
+        width: 116
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_WallCrawler_19
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 173
+        width: 116
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_WallCrawler_20
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 173
+        width: 116
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_WallCrawler_21
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 173
+        width: 116
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_WallCrawler_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 6
+        width: 116
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_WallCrawler_23
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 6
+        width: 116
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_WallCrawler_24
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 3
+        width: 115
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_WallCrawler_25
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1
+        width: 115
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_WallCrawler_26
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 0
+        width: 115
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_WallCrawler_27
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 0
+        width: 115
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_WallCrawler_28
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 0
+        width: 114
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_WallCrawler_29
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1
+        width: 114
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_WallCrawler_30
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 0
+        width: 114
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_WallCrawler_31
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 0
+        width: 114
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_WallCrawler_32
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 0
+        width: 114
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
